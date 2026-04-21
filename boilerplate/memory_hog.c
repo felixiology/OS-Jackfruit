@@ -1,4 +1,4 @@
-/*
+ /*
  * memory_hog.c - Memory pressure workload for soft / hard limit testing.
  *
  * Default behavior:
